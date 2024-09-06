@@ -2,8 +2,7 @@
 
 This guide will walk you through transforming your DJI Mini 2 SE drone into a personalized flying companion with robotic-like features.
 
-![pixie_Drone_designs](https://github.com/user-attachments/assets/b5e9ce5f-15b1-4c52-bb07-c939cdc6eae1)
-
+![image](https://github.com/user-attachments/assets/4cd03364-7e01-4b84-afc3-ce9032b00b23)
 
 ---
 
